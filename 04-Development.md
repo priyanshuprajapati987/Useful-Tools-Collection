@@ -244,15 +244,96 @@ Best free and open-source tools for coding, debugging, APIs, and software develo
 
 ---
 
+## 16. Zed
+
+**GitHub:** [zed-industries/zed](https://github.com/zed-industries/zed)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | High-performance, multiplayer code editor |
+| **Best for** | Fast coding, team collaboration |
+| **Platform** | macOS, Linux (Windows coming) |
+| **Installation** | Download from zed.dev |
+| **Pros** | Blazing fast, AI built-in, multiplayer |
+| **Cons** | Windows support limited |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 17. Bolt.new
+
+**Website:** [bolt.new](https://bolt.new)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | AI-powered full-stack web app builder |
+| **Best for** | Rapid prototyping, web apps |
+| **Platform** | Web |
+| **Installation** | Visit bolt.new |
+| **Pros** | Instant deploy, AI coding, no setup |
+| **Cons** | Web only, limited customization |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 18. Lovable
+
+**Website:** [lovable.dev](https://lovable.dev)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | AI app builder for full-stack applications |
+| **Best for** | Non-technical founders, rapid development |
+| **Platform** | Web |
+| **Installation** | Visit lovable.dev |
+| **Pros** | Beautiful UI, Supabase integration, fast |
+| **Cons** | Paid for production use |
+| **Rating** | ⭐⭐⭐⭐ |
+
+---
+
+## 19. v0
+
+**Website:** [v0.dev](https://v0.dev)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | AI-generated UI components |
+| **Best for** | React/Next.js UI generation |
+| **Platform** | Web |
+| **Installation** | Visit v0.dev |
+| **Pros** | Beautiful components, Tailwind CSS, shadcn/ui |
+| **Cons** | Limited to React ecosystem |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 20. Supabase
+
+**GitHub:** [supabase/supabase](https://github.com/supabase/supabase)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | Open source Firebase alternative |
+| **Best for** | Database, auth, storage, realtime |
+| **Platform** | Web, self-hosted |
+| **Installation** | `npx supabase init` |
+| **Pros** | PostgreSQL, real-time, auth built-in |
+| **Cons** | Self-hosting complex |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
 ## Comparison Table
 
 | Tool | Type | Free | Best For |
 |------|------|------|----------|
 | VS Code | Code Editor | ✅ | General coding |
 | Cursor | AI Editor | ✅ | AI-assisted coding |
-| Postman | API Client | ✅ | API testing |
-| Docker | Containers | ✅ | Dev environments |
-| Figma | Design | ✅ | UI/UX design |
+| Zed | Code Editor | ✅ | Fast coding |
+| Bolt.new | AI Builder | ✅ | Rapid prototyping |
+| v0 | UI Generator | ✅ | React components |
+| Supabase | Backend | ✅ | Full-stack apps |
 
 ---
 

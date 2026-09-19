@@ -2,6 +2,8 @@
 
 Best free and open-source AI tools for local use, chatbots, image generation, and more.
 
+**Total Tools: 20**
+
 ---
 
 ## 1. Ollama
@@ -244,6 +246,86 @@ Best free and open-source AI tools for local use, chatbots, image generation, an
 
 ---
 
+## 16. CrewAI
+
+**GitHub:** [crewaiinc/crewai](https://github.com/crewaiinc/crewai)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | Framework for building multi-agent AI systems |
+| **Best for** | Complex AI workflows, autonomous agents |
+| **Platform** | All platforms |
+| **Installation** | `pip install crewai` |
+| **Pros** | Easy agent orchestration, role-based, great docs |
+| **Cons** | Requires API keys for LLMs |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 17. Dify
+
+**GitHub:** [langgenius/dify](https://github.com/langgenius/dify)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | LLM app development platform with visual workflow |
+| **Best for** | Building AI apps, RAG systems, chatbots |
+| **Platform** | All platforms (Docker) |
+| **Installation** | `docker compose up -d` |
+| **Pros** | Visual builder, RAG built-in, multi-model support |
+| **Cons** | Requires Docker, complex setup |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 18. FlowiseAI
+
+**GitHub:** [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | Visual builder for LLM flows and agents |
+| **Best for** | No-code AI app building |
+| **Platform** | All platforms (Node.js) |
+| **Installation** | `npx flowise start` |
+| **Pros** | Drag-and-drop, 100+ integrations, open source |
+| **Cons** | Needs Node.js, can be slow with complex flows |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 19. AnythingLLM
+
+**GitHub:** [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | All-in-one AI desktop app with RAG |
+| **Best for** | Private AI assistant, document chat |
+| **Platform** | Windows, macOS, Linux |
+| **Installation** | Download from GitHub releases |
+| **Pros** | Beautiful UI, multi-model, vector DB built-in |
+| **Cons** | Larger download size |
+| **Rating** | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 20. Msty
+
+**Website:** [msty.app](https://msty.app)
+
+| Feature | Details |
+|---------|---------|
+| **What it does** | Beautiful AI chat interface for local models |
+| **Best for** | Elegant local AI chat experience |
+| **Platform** | Windows, macOS, Linux |
+| **Installation** | Download from website |
+| **Pros** | Stunning UI, split chat, model comparison |
+| **Cons** | Newer project, fewer features |
+| **Rating** | ⭐⭐⭐⭐ |
+
+---
+
 ## Comparison Table
 
 | Tool | Type | Offline | Ease of Use | Best For |
@@ -253,6 +335,11 @@ Best free and open-source AI tools for local use, chatbots, image generation, an
 | Stable Diffusion | Image Gen | ✅ | Medium | Creating images |
 | Whisper | Transcription | ✅ | Easy | Audio to text |
 | Open WebUI | Chat Interface | ✅ | Easy | Beautiful chat |
+| CrewAI | Multi-Agent | ❌ | Medium | AI workflows |
+| Dify | LLM Platform | ❌ | Medium | Building AI apps |
+| FlowiseAI | Visual Builder | ❌ | Easy | No-code AI |
+| AnythingLLM | Desktop App | ✅ | Easy | Private AI |
+| Msty | Chat Interface | ✅ | Very Easy | Elegant chat |
 
 ---
 
